@@ -1,0 +1,6 @@
+BuilingTest.Program.Main 2019-08-29 10:18:46.6310 INFO 2019/8/29 10:18:46：获取客户端通讯密码成功
+BuilingTest.Program.Main 2019-08-29 10:19:20.0533 INFO 2019/8/29 10:19:20：获取客户端通讯密码成功
+BuilingTest.Program.Main 2019-08-29 11:31:49.5216 INFO 2019/8/29 11:31:49：获取客户端通讯密码成功
+BuilingTest.Program.Main 2019-08-29 11:32:07.4237 INFO 2019/8/29 11:32:07：获取客户端通讯密码成功
+BuilingTest.Program.Main 2019-08-29 12:37:16.8478 INFO 2019/8/29 12:37:16：获取客户端通讯密码成功
+BuilingTest.Program.Main 2019-08-29 12:37:47.8163 INFO 2019/8/29 12:37:47：获取客户端通讯密码成功

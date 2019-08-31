@@ -1,0 +1,98 @@
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.4916 INFO 2019/8/30 16:53:31：开始获取客户端通讯密码
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.6226 INFO 2019/8/30 16:53:31：获取客户端通讯密码成功
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.6226 INFO 2019/8/30 16:53:31：开始客户端登录
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.6556 INFO 2019/8/30 16:53:31：客户端登录成功
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.6556 INFO 2019/8/30 16:53:31：开始执行获取要发送的数据列表
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO ------------------数据列表----------------
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO xml如下
+<building id="796" code="">
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15292">VD1008</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15289">VD1012</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15293">VD1020</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15291">VD1024</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15290">VD1028</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15294">VD1032</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15295">VD1036</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15325">VD1080</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15326">VD1084</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15327">VD1088</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15328">VD1092</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15329">VD1116</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15307">VD1136</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15308">VD1148</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15309">VD1156</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15310">VD1168</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15311">VD1180</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15320">VD1192</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15321">VD1196</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15312">VD1208</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15313">VD1224</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15314">VD1252</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15315">VD1260</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15316">VD1268</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15322">VD1272</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15296">VD1420</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15297">VD1436</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15298">VD1464</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15299">VD1472</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15317">VD1512</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15318">VD1556</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15300">VD1596</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15319">VD1604</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15301">VD1612</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15302">VD1628</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15303">VD1672</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15304">VD1708</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15305">VD1732</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO   <meter id="15306">VD1736</meter>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO </building>
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO 2019/8/30 16:53:31：数据列表数量：39
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO ------------------数据列表----------------
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:31.7166 INFO 2019/8/30 16:53:31：执行获取要发送的数据列表成功
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7723 INFO ------------------发送的数据列表----------------
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7723 INFO xml如下
+<building  id="796">
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7723 INFO    <meter  id="15292"  extid="VD1008" time="2019-08-30 16:52:16" >328.58</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7723 INFO    <meter  id="15289"  extid="VD1012" time="2019-08-30 16:52:16" >480.85</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7723 INFO    <meter  id="15293"  extid="VD1020" time="2019-08-30 16:52:16" >9.29</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7723 INFO    <meter  id="15291"  extid="VD1024" time="2019-08-30 16:52:16" >221.59</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7723 INFO    <meter  id="15290"  extid="VD1028" time="2019-08-30 16:52:16" >1183.87</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7723 INFO    <meter  id="15294"  extid="VD1032" time="2019-08-30 16:52:16" >52.26</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7723 INFO    <meter  id="15295"  extid="VD1036" time="2019-08-30 16:52:16" >0.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15325"  extid="VD1080" time="2019-08-30 16:52:16" >4719.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15326"  extid="VD1084" time="2019-08-30 16:52:16" >29.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15327"  extid="VD1088" time="2019-08-30 16:52:16" >3813.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15328"  extid="VD1092" time="2019-08-30 16:52:16" >233.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15329"  extid="VD1116" time="2019-08-30 16:52:16" >308.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15307"  extid="VD1136" time="2019-08-30 16:52:18" >8955.31</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15308"  extid="VD1148" time="2019-08-30 16:52:18" >2536.77</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15309"  extid="VD1156" time="2019-08-30 16:52:18" >11011.37</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15310"  extid="VD1168" time="2019-08-30 16:52:18" >787.22</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15311"  extid="VD1180" time="2019-08-30 16:52:18" >1785.41</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15320"  extid="VD1192" time="2019-08-30 16:52:18" >126.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15321"  extid="VD1196" time="2019-08-30 16:52:18" >0.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15312"  extid="VD1208" time="2019-08-30 16:52:18" >3558.36</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15313"  extid="VD1224" time="2019-08-30 16:52:18" >0.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15314"  extid="VD1252" time="2019-08-30 16:52:18" >8855.90</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15315"  extid="VD1260" time="2019-08-30 16:52:20" >7714.51</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15316"  extid="VD1268" time="2019-08-30 16:52:20" >6549.98</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15322"  extid="VD1272" time="2019-08-30 16:52:20" >5.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15296"  extid="VD1420" time="2019-08-30 16:52:22" >26.47</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15297"  extid="VD1436" time="2019-08-30 16:52:22" >4814.44</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15298"  extid="VD1464" time="2019-08-30 16:52:22" >12903.65</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15299"  extid="VD1472" time="2019-08-30 16:52:22" >293.50</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15317"  extid="VD1512" time="2019-08-30 16:52:22" >0.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15318"  extid="VD1556" time="2019-08-30 16:52:24" >7426.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15300"  extid="VD1596" time="2019-08-30 16:52:24" >136.37</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15319"  extid="VD1604" time="2019-08-30 16:52:24" >7092.00</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15301"  extid="VD1612" time="2019-08-30 16:52:24" >187.60</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15302"  extid="VD1628" time="2019-08-30 16:52:24" >15523.24</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15303"  extid="VD1672" time="2019-08-30 16:52:14" >23.70</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15304"  extid="VD1708" time="2019-08-30 16:52:14" >3825.98</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15305"  extid="VD1732" time="2019-08-30 16:52:14" >2625.60</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO    <meter  id="15306"  extid="VD1736" time="2019-08-30 16:52:14" >4603.43</meter>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO </building>
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO 发送的数据列表数量：39
+QuartzBuildingDemo.BuildingJob.JointStringToXml 2019-08-30 16:53:37.7743 INFO ------------------发送的数据列表----------------
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:37.7743 INFO 2019/8/30 16:53:37：开始执行发送数据接口
+QuartzBuildingDemo.BuildingJob.Execute 2019-08-30 16:53:37.7743 INFO 2019/8/30 16:53:37：执行发送数据接口成功

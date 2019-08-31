@@ -1,0 +1,8 @@
+F:\测试项目\BuidingDemo\BuilingTest\bin\Release\NLog.config
+F:\测试项目\BuidingDemo\BuilingTest\bin\Release\BuilingTest.exe.config
+F:\测试项目\BuidingDemo\BuilingTest\bin\Release\BuilingTest.exe
+F:\测试项目\BuidingDemo\BuilingTest\bin\Release\BuilingTest.pdb
+F:\测试项目\BuidingDemo\BuilingTest\bin\Release\NLog.dll
+F:\测试项目\BuidingDemo\BuilingTest\bin\Release\NLog.xml
+F:\测试项目\BuidingDemo\BuilingTest\obj\Release\BuilingTest.exe
+F:\测试项目\BuidingDemo\BuilingTest\obj\Release\BuilingTest.pdb
